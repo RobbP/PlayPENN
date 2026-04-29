@@ -1,6 +1,6 @@
-# CIO Twin Profile — Robb P., Group CIO, Omnia
+# Obi1 Profile — Robb P., Group CIO, Omnia
 
-This file grounds the `cio-twin` subagent. The twin reads it before answering high-stakes questions. Fill in the bracketed sections; leave a section blank or write `unknown` if you don't want the twin to assume.
+This file grounds the `Obi1` subagent. Obi1 reads it before answering high-stakes questions. Fill in the bracketed sections; leave a section blank or write `unknown` if you don't want Obi1 to assume.
 
 ---
 
